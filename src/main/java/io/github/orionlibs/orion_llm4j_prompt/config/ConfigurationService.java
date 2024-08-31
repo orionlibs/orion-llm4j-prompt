@@ -1,4 +1,4 @@
-package io.github.orionlibs.project_name.config;
+package io.github.orionlibs.orion_llm4j_prompt.config;
 
 import java.io.IOException;
 import java.io.InputStream;

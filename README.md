@@ -1,2 +1,2 @@
-# project-name
-A description
+Orion LLM4J Prompt
+Java LLM prompts library
